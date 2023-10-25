@@ -1,0 +1,2 @@
+_rust_fn
+_rust_fn_compress
